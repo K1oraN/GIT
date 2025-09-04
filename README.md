@@ -1,6 +1,6 @@
-# 🚀 Guia Completo do Git e GitHub: Do Início ao Avançado  
+# 🚀 Guia Completo do Git e GitHub
 
-Um guia passo a passo para aprender **Git** e **GitHub** do zero até o nível avançado.  
+Um guia passo a passo para aprender **Git** e **GitHub** do zero.  
 Aqui você encontrará desde a instalação, configuração inicial e criação de repositórios, até fluxos de trabalho colaborativos, boas práticas e comandos avançados.  
 
 > 🎯 Objetivo: Ajudar iniciantes e desenvolvedores a dominarem Git e GitHub de forma prática e organizada.  
